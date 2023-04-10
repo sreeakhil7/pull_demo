@@ -1,2 +1,5 @@
 songs         -Artist
 =======================
+veyi          -RP
+koti          -RP
+gajuvaka      -RP
