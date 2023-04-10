@@ -1,5 +1,8 @@
 songs         -Artist
 =======================
+veyi          -RP
+koti          -RP
+gajuvaka      -RP
 malli         -AR Rehaman
 paruvam       -AR Rehaman
 mustafa       -AR Rehaman
